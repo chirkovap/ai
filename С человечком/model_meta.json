@@ -1,0 +1,1 @@
+{"inputUnits":[64,64,4],"outputUnits":4,"inputs":{"image":{"dtype":"array","min":0,"max":255}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["Круг","Квадрат","Треугольник","Человек"],"legend":{"Круг":[1,0,0,0],"Квадрат":[0,1,0,0],"Треугольник":[0,0,1,0],"Человек":[0,0,0,1]}}},"isNormalized":true}
